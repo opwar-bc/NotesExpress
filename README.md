@@ -6,8 +6,7 @@ This Express.js application allows you to write, save, and delete notes. It uses
 ##  Installation
 To install the application on your system, follow these steps:
 ```bash
-git clone https://github.com/your-github-username/Express-Note-Taker
-cd express-note-taker
+
 npm install
 ```
 
